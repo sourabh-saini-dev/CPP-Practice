@@ -14,10 +14,11 @@ string reverseString(string n) {
     return n;
 }
 
+
 int main() {
     string n;
 
-    cout << "Enter the string: ";
+    cout << "Enter the string now: ";
     cin >> n;
 
     cout << reverseString(n);
