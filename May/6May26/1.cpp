@@ -15,13 +15,13 @@ string reverseString(string n) {
 }
 
 
-int main() {
+int main()  {
     string n;
 
     cout << "Enter the string now: ";
     cin >> n;
 
-    cout << reverseString(n);
+    cout << reverseString(n) ;
 
     return 0;
 }
