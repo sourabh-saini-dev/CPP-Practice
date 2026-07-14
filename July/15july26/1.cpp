@@ -15,8 +15,8 @@
 int main()
 { 
     int arr []= {1,1,3,4,5};
-    int n = 5
-        cout<<duplicate(arr[],n);
+    int n = 5;
+        cout<<duplicate(arr,n);
 
     return 0;
 } 
