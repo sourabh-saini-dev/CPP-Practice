@@ -1,4 +1,4 @@
-  
+   //   duplicate array
 #include <iostream>
  using namespace std;
   bool   duplicate( int arr[],int n){
